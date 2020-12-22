@@ -1,2 +1,1 @@
-# lock-exercise
-just for php lock exercise
+just for php lock exercises!!!

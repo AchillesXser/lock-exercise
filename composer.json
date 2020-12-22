@@ -1,0 +1,18 @@
+{
+    "name": "neolee/php-lock",
+    "description": "exercise for lock",
+    "type": "library",
+    "authors": [
+        {
+            "name": "vipdarlin",
+            "email": "vvvipdarlin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "php-lock\\src\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
