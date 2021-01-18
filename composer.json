@@ -1,16 +1,16 @@
 {
-    "name": "neolee/php-lock",
+    "name": "achilles/php-lock",
     "description": "exercise for lock",
     "type": "library",
     "authors": [
         {
-            "name": "vipdarlin",
-            "email": "vvvipdarlin@gmail.com"
+            "name": "achilles",
+            "email": "vipdarlin@126.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "php-lock\\src\\": "src/"
+            "Src\\": "src/"
         }
     },
     "minimum-stability": "dev",
